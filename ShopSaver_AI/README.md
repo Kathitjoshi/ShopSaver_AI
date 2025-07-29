@@ -31,7 +31,7 @@
 
 ## Introduction
 
-ShopSaver AI is an interactive Streamlit application designed to help e-commerce businesses optimize their discount strategies and forecast customer spending. By analyzing customer transaction data, it identifies potential discount abuse patterns and predicts future monthly spending, providing actionable insights to enhance profitability and customer relationship management.
+ShopSaver AI is an interactive Streamlit application designed to help e-commerce businesses optimize their discount strategies and forecast customer spending. By analyzing customer transaction data, it identifies potential discount abuse patterns and predicts future monthly spending, providing actionable insights to enhance profitability and customer relationship management. Extract the demo .csv file from Online Retail.zip for the demo dataset.
 
 ## Features
 
