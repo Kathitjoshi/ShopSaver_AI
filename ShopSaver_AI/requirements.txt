@@ -1,13 +1,14 @@
 # General dependencies
-streamlit>=1.30.0  # More recent Streamlit version
-pandas>=2.1.0      # More recent Pandas version
-numpy>=1.26.0      # More recent NumPy version, as suggested by the error log
+streamlit>=1.30.0
+pandas>=2.1.0
+numpy>=1.26.0
 
 # Other dependencies (allowing pip to select recent compatible versions)
 scikit-learn
 xgboost
 shap
 scipy
+plotly 
 
 # Ensure pip and setuptools are modern for Python 3.12+ compatibility
 setuptools>=65.5.1
