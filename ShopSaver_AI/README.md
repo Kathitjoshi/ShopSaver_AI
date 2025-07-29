@@ -65,7 +65,7 @@ The application follows a standard machine learning pipeline:
 
 1.  **Clone the repository (or download `app.py`):**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+    git clone [https://github.com/Kathitjoshi/ShopSaver_AI.git](https://github.com/Kathitjoshi/ShopSaver_AI.git)
     cd YOUR_REPO_NAME
     ```
 2.  **Create a virtual environment (recommended):**
