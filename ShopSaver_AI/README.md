@@ -13,6 +13,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+- [Live Demo](#live-demo)
 - [How It Works](#how-it-works)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -40,6 +41,13 @@ ShopSaver AI is an interactive Streamlit application designed to help e-commerce
 * **Enhanced Machine Learning Models:** Employs robust XGBoost (for classification) and Gradient Boosting Regressor (for regression) models with refined hyperparameters for potentially improved accuracy.
 * **Interactive Streamlit Dashboard:** A user-friendly web interface for data upload, flexible column mapping, feature generation, model training, and performance visualization.
 * **Dynamic Column Mapping:** Allows users to map columns from **any** transactional CSV file to the model's expected fields, making the tool highly adaptable.
+
+
+## Live Demo
+
+Experience ShopSaver AI live! You can access the deployed application here:
+
+[**Launch ShopSaver AI Application**](https://shopsaverai.streamlit.app)
 
 ## How It Works
 
