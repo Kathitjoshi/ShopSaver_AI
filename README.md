@@ -1,4 +1,5 @@
 # ShopSaver AI - Customer Discount Abuse Detector & Spend Predictor
+# Note: Wait 5-10 mins for features generation and 5 mins for AI model part, also know that this is wrt to the dataset uploaded(might vary from dataset to dataset), and don't forget to match your dataset column heading with the column mappings applied!!!
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red.svg)](https://streamlit.io/)
